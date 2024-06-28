@@ -26,6 +26,8 @@ Calculate Mean Age:
 The mean age of the athletes is calculated using the .mean() method on the 'Age' column of the DataFrame.
 Plot Age Distribution:
 
+C:\Users\vovot\OneDrive\Pictures\Screenshots
+
 A histogram of the age distribution is plotted.
 The mean age is indicated on the histogram with a dashed red line.
 The plot includes labels for the x-axis (Age), y-axis (Frequency), and a title (Age Distribution of Athletes).
